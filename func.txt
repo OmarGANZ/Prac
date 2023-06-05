@@ -13,3 +13,5 @@ void print(int*arr)
 	}
 	
 }
+
+static uint32 Var =  0;
