@@ -14,6 +14,7 @@ void print(int*arr)
 	
 }
 
-static uint32 Var =  0;
+static uint32 Var =  12u;
 
 void Non(uint32 st);
+
