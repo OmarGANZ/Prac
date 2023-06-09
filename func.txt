@@ -15,3 +15,5 @@ void print(int*arr)
 }
 
 static uint32 Var =  0;
+
+void Non(uint32 st);
