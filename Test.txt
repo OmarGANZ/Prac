@@ -3,3 +3,4 @@ void print(int*);
 void change(int,int);
 
 1
+2
