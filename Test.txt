@@ -1,3 +1,5 @@
 void add(int,int);
 void print(int*);
 void change(int,int);
+
+1
