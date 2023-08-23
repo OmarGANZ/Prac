@@ -9,6 +9,7 @@ void print(int*arr)
 {
 	for(int i=0;i<SIZE;i++)
 	{
+		/* Print the array index */
 		printf("%d",arr[i]);
 	}
 	
@@ -18,3 +19,4 @@ static uint32 Var =  12u;
 
 void Non(uint32 st);
 
+Changing what I need
