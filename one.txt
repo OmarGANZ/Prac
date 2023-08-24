@@ -2,3 +2,4 @@
 "Stay calm"
 "Nothing to be done"
 NOK
+Became Two
